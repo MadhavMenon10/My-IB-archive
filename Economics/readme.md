@@ -10,25 +10,30 @@ Furthermore, only topics with the "AO3" learning objective in the subject guide 
 Since economics requires you to be able to draw a handful of graphs and recall some advantages and disadvantages at times, I found using flashcards and actively drawing graphs using pencil and paper to be far more productive than passively reading the textbook. Some of these flashcards may be incomplete as I made these towards the start of the exam session. As I took economics SL, I do not have any flashcards for HL only content.
 
 ## Microeconomics
+### 2: Competitive markets: Demand and supply
 [2.1: Introduction to competitive markets](https://quizlet.com/in/895301338/21-introduction-to-competitive-markets-flash-cards/)\
 [2.2: Demand](https://quizlet.com/in/895301817/22-demand-flash-cards/)\
 [2.3: Supply](https://quizlet.com/in/895302708/23-supply-flash-cards/)\
 [2.4: Competitive market equilibrium: demand and supply](https://quizlet.com/in/895303801/24-competitive-market-equilibrium-demand-and-supply-flash-cards/)\
-[2.5: The role of the price mechanism and market efficiency](https://quizlet.com/in/895306658/25-price-mechanism-and-market-efficiency-flash-cards/)\
+[2.5: The role of the price mechanism and market efficiency](https://quizlet.com/in/895306658/25-price-mechanism-and-market-efficiency-flash-cards/)
+### 3: Elasticities
 [3.1: Price elasticity of demand (PED)](https://quizlet.com/in/895310562/31-ped-flash-cards/)\
 [3.2: Income elasticity of demand (YED)](https://quizlet.com/in/895313771/32-yed-flash-cards/)\
 [3.3: Price elasticity of supply (PES)](https://quizlet.com/in/895314612/33-pes-flash-cards/)\
+### 4: Government intervention in microeconomics
 [4.1: Government intervention in markets](https://quizlet.com/in/895849370/41-government-intervention-in-markets-flash-cards/)\
 [4.2: Price controls](https://quizlet.com/in/895849829/42-price-controls-flash-cards/)\
 [4.3: Indirect taxes](https://quizlet.com/in/896025565/43-indirect-taxes-flash-cards/)\
-[4.4: Subsidies](https://quizlet.com/in/896034104/44-subsidies-flash-cards/)\
+[4.4: Subsidies](https://quizlet.com/in/896034104/44-subsidies-flash-cards/)
+### 5: Market failure and socially undesirable outcomes I: Common pool resources and negative externalities
 [5.1: The meaning of common pool resources](https://quizlet.com/in/896291943/51-common-pool-resources-flash-cards/)\
-[5.2: Market failure and externalities: diverging private and social benefits and costs](https://quizlet.com/in/896292743/52-market-failure-and-externalities-flash-cards/)\
+[5.2: Market failure and externalities: diverging private and social benefits and costs](https://quizlet.com/in/896292743/52-market-failure-and-externalities-flash-cards/)
 [5.3: Negative production externalities](https://quizlet.com/in/896293962/53-negative-production-externalities-flash-cards/)\
-[5.4: Negative consumption externalities](https://quizlet.com/in/896314991/54-negative-consumption-externalities-flash-cards/)\
+[5.4: Negative consumption externalities](https://quizlet.com/in/896314991/54-negative-consumption-externalities-flash-cards/)
+### 6: Marke failure and socially undesirable outcomes II: Positive externalities, public goods, asymmetric information and inability to achieve equity
 [6.1: Positive production externalities](https://quizlet.com/in/896454032/61-positive-production-externality-flash-cards/)\
 [6.2: Positive consumption externalities](https://quizlet.com/in/896461973/62-positive-consumption-externalities-flash-cards/)\
-[6.3: Market failure and public goods](https://quizlet.com/in/896475885/63-market-failure-and-public-good-flash-cards/)\
+[6.3: Market failure and public goods](https://quizlet.com/in/896475885/63-market-failure-and-public-good-flash-cards/)
 
 ## Macroeconomics
 [8.1: Economic activity](https://quizlet.com/in/896972873/81-economic-activity-flash-cards/)\
