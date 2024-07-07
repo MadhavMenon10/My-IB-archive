@@ -33,7 +33,8 @@ There may be changes to IA criteria or IA format as there was a syllabus change 
 [5.1: Measuring energy changes](https://docs.google.com/document/d/1yxQlJpdcVIGXyzWrK-Ut1zITWCdiVoe7OY-Iy8ovWq4/edit?usp=drive_link)\
 [5.2: Hess's Law](https://docs.google.com/document/d/1Z-TTcTXilne2v_n_6yN-pzBCKlBrsJrdTtB8qSyTkno/edit?usp=drive_link)\
 [5.3: Bond enthalpies](https://docs.google.com/document/d/1Wq-jVWr_4HviUgIuDOfAUc2n42ZqlWTMipHUN1luXGw/edit?usp=drive_link)\
-[15.1: Energy cycles](https://docs.google.com/document/d/1RtT5_pp5soir0BT_l9vbDZdIxoWbNi_HK1l64Hle-dY/edit?usp=drive_link)\ [15.2: Entropy and spontaneity](https://docs.google.com/document/d/1mISijFOqDyplHuuTGIOLbGOSsGw5iQLRcA76ol6Gy9o/edit?usp=drive_link)
+[15.1: Energy cycles](https://docs.google.com/document/d/1RtT5_pp5soir0BT_l9vbDZdIxoWbNi_HK1l64Hle-dY/edit?usp=drive_link)\
+[15.2: Entropy and spontaneity](https://docs.google.com/document/d/1mISijFOqDyplHuuTGIOLbGOSsGw5iQLRcA76ol6Gy9o/edit?usp=drive_link)
 
 ## Topic 6 & 16: Chemical kinetics
 
