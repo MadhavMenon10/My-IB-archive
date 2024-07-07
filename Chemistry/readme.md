@@ -21,7 +21,13 @@ There may be changes to IA criteria or IA format as there was a syllabus change 
 [13.1: First-row d-block elements](https://docs.google.com/document/d/1X8MxX2H6tNiXs4QIWtvowLwdwBHpcGpOdM4I4b3RmO0/edit?usp=drive_link)\ [13.2: Coloured complexes](https://docs.google.com/document/d/1mENKoc4fNBAoa8WHHqX7mhPuJkYdmEpCFRtUm9IWMaY/edit?usp=drive_link)
 
 ## Topic 4 & 14: Chemical bonding and structure
-
+[4.1: Iomic bonding](https://docs.google.com/document/d/1mDJguOzycRtmVMBrtrnbtbkOlh5yAGxWofkilBGzDvQ/edit?usp=drive_link)\
+[4.2: Covalent bonding](https://docs.google.com/document/d/1-G8WmoMfdYwBX3o-qINMraLdytjIVsOx9ccloMpMRZE/edit?usp=drive_link)\
+[4.3: Covalent structures](https://docs.google.com/document/d/1vGqei1zYyfg-QkGDGn5pPH2SvY2jYmL45OZkul3ijuE/edit?usp=drive_link)\
+[4.4: Intermolecular forces](https://docs.google.com/document/d/1BSHvHCocOtDMqt8mly1GycKMgrNIQJodgGCOxl55CZg/edit?usp=drive_link)\
+[4.5: Metallic bonding](https://docs.google.com/document/d/1vIzyx3LVsIlQW8ObYcw_5QzQYd6YbdPVxePR39oalO8/edit?usp=drive_link)\
+[14.1: Further aspects of covalent bonding and structure](https://docs.google.com/document/d/1RZwG9YsrvtDnde8m-1UF1ySxVpEannVO_ajhPYolxmk/edit?usp=drive_link)\
+[14.2: Hybridisation](https://docs.google.com/document/d/1PwUHgebFMtdUbCfNrw_QpsVBWfLleXtRoh_5pZs_iBE/edit?usp=drive_link)
 ## Topic 5 & 15: Energetics and thermochemistry
 
 ## Topic 6 & 16: Chemical kinetics
