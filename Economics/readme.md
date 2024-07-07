@@ -63,6 +63,20 @@ Since economics requires you to be able to draw a handful of graphs and recall s
 ### 13: Demand-side and supply-side policies
 [13.1: Introduction to macroeconomic policies](https://quizlet.com/in/897903620/131-introduction-to-macroeconomic-policies-flash-cards/)\
 [13.2: Demand management and monetary policy](https://quizlet.com/in/897905147/132-demand-management-and-monetary-policy-flash-cards/)\
-[13.3: Demand management and fiscal policy]()\
-[13.6: Supply-side policies]()\
-
+[13.3: Demand management and fiscal policy](https://quizlet.com/in/897908916/133-demand-management-and-fiscal-policy-flash-cards/)\
+[13.6: Supply-side policies](https://quizlet.com/in/897915384/136-supply-side-policies-flash-cards/)
+## The Global Economy
+### 14: International trade: Part I
+[14.1: The benefits of internatinal trade](https://quizlet.com/in/901708769/141-the-benefits-of-international-trade-flash-cards/)\
+[14.3: Types of trade protection: restrictions on free trade](https://quizlet.com/in/901711680/143-types-of-trade-protection-flash-cards/)
+### 15: International trade: Part II
+[15.1: Arguments for and against trade protection](https://quizlet.com/in/901725110/151-arguments-for-and-against-trade-protection-flash-cards/?funnelUUID=6cde4d8c-b840-486e-96bd-ce4fb0e7b4a7)\
+[15.2 & 15.3: Economic integration: trading blocs and monetary unions](https://quizlet.com/in/901728854/152-153-trading-blocs-and-monetary-unions-flash-cards/)
+[15.4: World Trade Organisation](https://quizlet.com/in/901731818/154-wto-flash-cards/)
+### 16: Exchange rates and the balance of payments
+[16.1: Floating exchange rates](https://quizlet.com/in/904544111/161-floating-exchange-rate-flash-cards/)\
+[16.2: Consequences of changes in exchange rates: an evaluation](https://quizlet.com/in/904546274/162-consequences-of-changes-in-exchange-rates-flash-cards/)\
+[16.3: Government intervention](https://quizlet.com/in/904549347/163-government-intervention-flash-cards/)\
+[16.4: Balance of payments](https://quizlet.com/in/904555624/164-balance-of-payments-flash-cards/)
+### 18: Understanding economic development
+[18.1 & 18.2: Sustainable development and measuring development](https://quizlet.com/in/904561308/181-182-sustainable-development-and-measuring-development-flash-cards/)
