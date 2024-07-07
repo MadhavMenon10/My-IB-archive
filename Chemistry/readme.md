@@ -47,6 +47,13 @@ There may be changes to IA criteria or IA format as there was a syllabus change 
 
 
 ## Topic 8 & 18: Acids and bases
+[8.1: Theories of acids and bases](https://docs.google.com/document/d/1FV0G2tsxjkl8Da74ZcoSlu5M5Cf0MwbPi3N68x7B8Bs/edit?usp=drive_link)\
+[8.2: Properties of acids and bases](https://docs.google.com/document/d/1hGvTmgQEPN9o0GY6ibVUxeGwrBhU3Vf1GDKDzqYnZGo/edit?usp=drive_link)\
+[8.3: The pH scale](https://docs.google.com/document/d/1KQtTrXBg2B4ZI3bIih2IUufHn_5XKWXP2cbBeJLCYD4/edit?usp=drive_link)
+[8.4: Strong and weak acids and bases](https://docs.google.com/document/d/1xcDgxSMhwIdqTEXE5pLjLMuAqqaaq76KTGIW8a0SnrM/edit?usp=drive_link)\ [8.5: Acid deposition](https://docs.google.com/document/d/1zhGYdwH5IWnWirR7Ng4xvpzi2UcJZescLtvEWrgylcY/edit?usp=drive_link)\ 
+[18.1: Lewis acids and bases](https://docs.google.com/document/d/1pJplbbZu4NkQBLtGji-4TA3yLF0qgItaSCBkCnqP2_4/edit?usp=drive_link)\ 
+[18.2: Calculations involving acids and bases](https://docs.google.com/document/d/1C4d68VA2brSj4m2ldrZS-OdU0a59lFuChONfo0b76cM/edit?usp=drive_link)\
+[18.3: pH curves](https://docs.google.com/document/d/1wXhZCgPmpxZQ-z8t_IquFF_0qWt-DBtTonROtLfJBe0/edit?usp=drive_link)
 
 ## Topic 9 & 19: Redox processes
 
