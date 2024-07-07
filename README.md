@@ -1,5 +1,5 @@
 # My-IB-stuff
-An archive of all my IBDP internally graded components. **For KC students only.**
+An archive of all my IBDP graded components. **For KC students only.**
 
 ## DISCLAIMER: Do **NOT** plagiarise any of my work. 
 
