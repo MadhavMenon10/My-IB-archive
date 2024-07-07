@@ -9,3 +9,7 @@ You can see how my research focus shifted over time in my RPPF.
 The attached RPPF does not contain supervisor comments as you are not allowed to see those. Thus, I added the final RPPF which I submitted to the math department, post which the supervisor comments were added.
 
 On a similar note, you are likely going to write your RPPF reflections in a separate doc before you copy-paste it onto the template provided to you by your supervisor. Keep in mind that the formatting may change and certain characters may not render. In my case, the "em dash" did not render and thus you may see certain words not separated by an appropriate space or dash. I did not notice this until I uploaded my RPPF onto this github repo so you should probably proofread your RPPF after copy-pasting it into the template.
+
+# Notes (2024 syllabus)
+## Option D: Astrophysics
+[Summary document](https://docs.google.com/document/d/1lHnKDsN0AM68mJz2PtPwXTFNczZ50r0gTp2fOXf9pB4/edit?usp=drive_link)
