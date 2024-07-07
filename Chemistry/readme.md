@@ -18,7 +18,8 @@ There may be changes to IA criteria or IA format as there was a syllabus change 
 ## Topic 3 & 13: Periodicity
 [3.1: The periodic table](https://docs.google.com/document/d/1z_lmFAVahUgPRBwwBrg7Zl8ZWcJWDNVHJyqVbo62KP8/edit?usp=drive_link)\
 [3.2: Periodic trends](https://docs.google.com/document/d/1Ed_1i7ItK0go-pHuPFndc2KcLgJaSxvcUDrdteWJLvE/edit?usp=drive_link)\
-[13.1: First-row d-block elements](https://docs.google.com/document/d/1X8MxX2H6tNiXs4QIWtvowLwdwBHpcGpOdM4I4b3RmO0/edit?usp=drive_link)\[13.2: Coloured complexes](https://docs.google.com/document/d/1mENKoc4fNBAoa8WHHqX7mhPuJkYdmEpCFRtUm9IWMaY/edit?usp=drive_link)
+[13.1: First-row d-block elements](https://docs.google.com/document/d/1X8MxX2H6tNiXs4QIWtvowLwdwBHpcGpOdM4I4b3RmO0/edit?usp=drive_link)\
+[13.2: Coloured complexes](https://docs.google.com/document/d/1mENKoc4fNBAoa8WHHqX7mhPuJkYdmEpCFRtUm9IWMaY/edit?usp=drive_link)
 
 ## Topic 4 & 14: Chemical bonding and structure
 [4.1: Iomic bonding](https://docs.google.com/document/d/1mDJguOzycRtmVMBrtrnbtbkOlh5yAGxWofkilBGzDvQ/edit?usp=drive_link)\
