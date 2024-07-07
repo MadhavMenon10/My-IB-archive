@@ -5,5 +5,5 @@ If you ask the math department about my extended essay journey, they will likely
 
 You can see how my research focus shifted over time in my RPPF.
 
-## Disclaimer
+# Disclaimer
 The attached RPPF does not contain supervisor comments as you are not allowed to see those. Thus, I added the final RPPF which I submitted to the math department, post which the supervisor comments were added.
