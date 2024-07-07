@@ -37,8 +37,14 @@ There may be changes to IA criteria or IA format as there was a syllabus change 
 [15.2: Entropy and spontaneity](https://docs.google.com/document/d/1mISijFOqDyplHuuTGIOLbGOSsGw5iQLRcA76ol6Gy9o/edit?usp=drive_link)
 
 ## Topic 6 & 16: Chemical kinetics
+[6.1: Collision theory and rates of reaction](https://docs.google.com/document/d/1eEl5qIUCAUg6A2aQwxWnq9nvlMgBf_Zs-aj0A-yWkqo/edit?usp=drive_link)\
+[16.1: Rate expression and reaction mechanism](https://docs.google.com/document/d/1eWG4KpJNcFR8wON5RkW4KKY6O4QJBP8A323gSZDR-WE/edit?usp=drive_link)\
+[16.2: Activation energy](https://docs.google.com/document/d/1N--ewBfwT67aOUQOF5BSqH_4fGHWUUaWbOb4Q85_p_4/edit?usp=drive_link)
 
 ## Topic 7 & 17: Equilibrium
+[7.1: Equilibrium](https://docs.google.com/document/d/14XW-D5BEqSvtNFE-bAjDu1XXBQJCdbcBd9NHCWjx41I/edit?usp=drive_link)
+[7.2: The equilibrium law](https://docs.google.com/document/d/1r4fODDJroZq80aCFgk9OYY_d1eBNcyEDZ-ZuC7UdqVU/edit?usp=drive_link)
+
 
 ## Topic 8 & 18: Acids and bases
 
