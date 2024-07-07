@@ -7,7 +7,7 @@ At the time of creating my RWE document (towards the start of exams), I knew tha
 Furthermore, only topics with the "AO3" learning objective in the subject guide can come as a 15 marker in paper one. Thus, only topics that come under AO3 require RWEs. This will help you keep track of all the concepts you may need RWEs for.
 
 # Flashcards
-Since economics requires you to be able to draw a handful of graphs and recall some advantages and disadvantages at times, I found using flashcards and actively drawing graphs using pencil and paper to be far more productive than passively reading the textbook. Some of these flashcards may be incomplete as I made these towards the start of the exam session. As I took economics SL, I do not have any flashcards for HL only content.
+Since economics requires you to be able to draw a handful of graphs and recall some advantages and disadvantages at times, I found using flashcards and actively drawing graphs using pencil and paper to be far more productive than passively reading the textbook. Some of these flashcards may be incomplete and some chapters may be missing so do not use these as a substitute for reading the textbook, only use these for last minute revision. As I took economics SL, I do not have any flashcards for HL only content.
 
 ## Microeconomics
 ### 2: Competitive markets: Demand and supply
