@@ -27,7 +27,7 @@ Since economics requires you to be able to draw a handful of graphs and recall s
 [4.4: Subsidies](https://quizlet.com/in/896034104/44-subsidies-flash-cards/)
 ### 5: Market failure and socially undesirable outcomes I: Common pool resources and negative externalities
 [5.1: The meaning of common pool resources](https://quizlet.com/in/896291943/51-common-pool-resources-flash-cards/)\
-[5.2: Market failure and externalities: diverging private and social benefits and costs](https://quizlet.com/in/896292743/52-market-failure-and-externalities-flash-cards/)
+[5.2: Market failure and externalities: diverging private and social benefits and costs](https://quizlet.com/in/896292743/52-market-failure-and-externalities-flash-cards/)\
 [5.3: Negative production externalities](https://quizlet.com/in/896293962/53-negative-production-externalities-flash-cards/)\
 [5.4: Negative consumption externalities](https://quizlet.com/in/896314991/54-negative-consumption-externalities-flash-cards/)
 ### 6: Marke failure and socially undesirable outcomes II: Positive externalities, public goods, asymmetric information and inability to achieve equity
