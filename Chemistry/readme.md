@@ -56,7 +56,20 @@ There may be changes to IA criteria or IA format as there was a syllabus change 
 [18.3: pH curves](https://docs.google.com/document/d/1wXhZCgPmpxZQ-z8t_IquFF_0qWt-DBtTonROtLfJBe0/edit?usp=drive_link)
 
 ## Topic 9 & 19: Redox processes
-
+[9.1: Oxidation and reduction](https://docs.google.com/document/d/1Mn4gp0JOhcZwt645h1l7rJLhx9HAUtDlRvechctQnU4/edit?usp=drive_link)\
+[9.2 & 19.1: Electrochemical cells](https://docs.google.com/document/d/1gzpWslvQomgs5fM0tEdFlqgUga9Tap92cK6jjMzdcdg/edit?usp=drive_link)\
+[19.2: Electrolytic cells](https://docs.google.com/document/d/1WSMh2CG4dWmbosvaFk_83G98bl0smKtpnZbGzcisKNY/edit?usp=drive_link)
 ## Topic 10 & 20: Organic chemistry
+[10.1: Fundamentals of organic chemistry](https://docs.google.com/document/d/1ARbFooPF8QUYYO6E2arXk9VeS379vgDubSffA4qrxmw/edit?usp=drive_link)\
+[10.2: Functional group chemistry](https://docs.google.com/document/d/17oennrHgncCpuUrXgNFGhcJv6ovrZVlHHPpFH3UL-7Q/edit?usp=drive_link)
+[20.1: Types of organic reactions](https://docs.google.com/document/d/1NJNewS81M84SLLyrY_LKlbuwTj_OvawUch5JZHqPGfA/edit?usp=drive_link)\ [20.3: Isomerism](https://docs.google.com/document/d/1PqJzc8XyALmkxxf1ZZkmMmtV9YBRdUQ2KmBn7S50SiQ/edit?usp=drive_link)
 
 ## Option C: Energy
+[C.1: Energy sources](https://docs.google.com/document/d/1GtMj1OkqfEoAF1fbNJBl8sIUbEtKH5AVn_9VHJ5rTdA/edit?usp=drive_link)\
+[C.2: Fossil fuels](https://docs.google.com/document/d/1TyFNxlWfB2vn7yJQY3kXOx_HFjPWIJXoH9dlwJ3cFaM/edit?usp=drive_link)\
+[C.3 & C.7: Nuclear fusion and fission](https://docs.google.com/document/d/1G9U-K-r7KWbRSn-b4_s5j7IlDu5BMrxW1voip-EtKoc/edit?usp=drive_link)\
+[C.4: Solar energy](https://docs.google.com/document/d/1iFd9_wYpyHxdWLr8yt7IzN588xQnyddhtP2Iiv02xTE/edit?usp=drive_link)\
+[C.5: Environmental impact: global warming](https://docs.google.com/document/d/1b5Go0SdUCWa8P3DSVfW3EpXghppbwFxelmloVrwwaVQ/edit?usp=drive_link)\
+[C.6: Electrochemistry, rechargeable batteries, and fuel cells](https://docs.google.com/document/d/1AL6YKEBAfIQ3qQwUGTDR9zinZZk0D_d7L0n0RIWNt8Y/edit?usp=drive_link)\
+[C.8: Photovoltaic and dye-sensitised solar cells (DSSCs)](https://docs.google.com/document/d/1ySTxtEmp39IZtwNFGILdm1Cp7xFGXGGOq28b__2PzbE/edit?usp=drive_link)\
+[Summary document](https://docs.google.com/document/d/1j8bPAniwXnN1kHaFHUVaT9iuCbEfSH7DkSjFZl4zBz4/edit?usp=drive_link)
