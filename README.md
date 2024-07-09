@@ -1,12 +1,12 @@
 # Hello World
 Hi, my name is Madhav Menon! I graduated from the IBDP in 2024 with an overall score of 43/45. My subjects were:
 
-- HL Maths AA
-- HL Physics
-- HL Chemistry
-- SL English A: Language and Literature
-- SL Spanish B
-- SL Economics
+- HL Maths AA (7)
+- HL Physics (7)
+- HL Chemistry (7)
+- SL English A: Language and Literature (6)
+- SL Spanish B (7)
+- SL Economics (7)
 
 Currently, I am majoring in Computer Science and Physics at the University of Illinois Urbana-Champaign. This archive contains all my IAs, EE, TOK submissions, and notes/flashcards for a few subjects. All the work here is my own, and all sources used have been properly cited.
 
