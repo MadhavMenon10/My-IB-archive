@@ -1,5 +1,5 @@
 # Physics IA
-My IA was on torsional pendulums.
+My IA was on the relationship between suspension length and period of a torsional pendulum.
 
 I scored a 22/24 on my IA.
 
