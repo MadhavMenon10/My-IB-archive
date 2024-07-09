@@ -1,2 +1,4 @@
 # Maths IA
-My Maths IA was focused on deriving the equations for the surface area and volume of an $n$-ball. I was told that my IA would score anywhere from a 10-15/20 but I did end up receiving a high 7 so my IA couldn't have done too bad.
+My Maths IA was focused on deriving the equations for the surface area and volume of an $n$-ball. 
+
+I was originally marked a 16/20 on my IA but this eventually moderated down to a 12/20. I would probably use my IA as a what **not** to do.
