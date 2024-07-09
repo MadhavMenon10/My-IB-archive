@@ -4,7 +4,7 @@ My IA was on the relationship between suspension length and period of a torsiona
 I scored a 22/24 on my IA.
 
 # Disclaimer
-There may be changes to IA criteria or IA format as there was a syllabus change from 2024 to 2025. Keep this in mind as you read my IA as mine conforms to the 2024 syllabus.
+Please be aware that there may have been changes to the IA criteria or format due to a syllabus update from 2024 to 2025. As you review my IA, keep in mind that it conforms to the 2024 syllabus.
 
 # Notes (2024 syllabus)
 ## Option D: Astrophysics
