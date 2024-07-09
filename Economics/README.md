@@ -1,17 +1,17 @@
 # Economics SL IA
-My economics portfolio focused on indirect taxation of demerit goods, contractionary monetary policy and cost-push inflation, and the removal of import tariffs. 
+My economics portfolio focuses on indirect taxation of demerit goods, contractionary monetary policy and cost-push inflation, and the removal of import tariffs. 
 
 I scored a 42/45 on my overall portfolio.
 
 As I did economics SL, none of my commentaries contain HL only concepts.
 
-# Disclaimer on RWEs and important tip for paper one preparartion
-At the time of creating my RWE document (towards the start of exams), I knew that I would not be picking the global economy question in paper one as it was the section of the syllabus I found the hardest. As you only need RWEs for paper one and can choose between the micro, macro, or global economy question I already knew that I only needed to know RWEs for micro and macro. This is why my RWE doc only contains micro and macro.
+# Disclaimer on RWEs and important tip for paper one preparation
+When I created my Real-World Example (RWE) document at the start of exam preparation, I knew that I would not be choosing the global economy question in Paper 1, as I found that section of the syllabus the most challenging. Since Paper 1 allows you to choose between microeconomics, macroeconomics, or global economy questions, I focused on RWEs for micro and macro only.
 
-Furthermore, only topics with the "AO3" learning objective in the subject guide can come as a 15 marker in paper one. Thus, only topics that come under AO3 require RWEs. This will help you keep track of all the concepts you may need RWEs for.
+Additionally, only topics with the "AO3" learning objective in the subject guide can appear as 15-mark questions in Paper 1. Therefore, you only need RWEs for topics classified under AO3. This approach will help you keep track of all the concepts for which you might need RWEs.
 
 # Flashcards
-Since economics requires you to be able to draw a handful of graphs and recall some advantages and disadvantages at times, I found using flashcards and actively drawing graphs using pencil and paper to be far more productive than passively reading the textbook. Some of these flashcards may be incomplete and some chapters may be missing so do not use these as a substitute for reading the textbook, only use these for last minute revision. As I took economics SL, I do not have any flashcards for HL only content.
+As I took economics SL, I do not have any flashcards for HL only content. Some of these flashcards are incomplete so they should not be used as a substitute to reading the textbook.
 
 ## Microeconomics
 ### 2: Competitive markets: Demand and supply
