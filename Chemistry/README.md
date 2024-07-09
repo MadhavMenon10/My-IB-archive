@@ -4,7 +4,7 @@ My IA was on the kinetics of the iodination of propan-2-one.
 I scored a 19/24 on my IA.
 
 ## Disclaimer
-Please be aware that there may have been changes to the Internal Assessment (IA) criteria or format due to a syllabus update from 2024 to 2025. As you review my IA, keep in mind that it conforms to the 2024 syllabus.
+Please be aware that there may have been changes to the IA criteria or format due to a syllabus update from 2024 to 2025. As you review my IA, keep in mind that it conforms to the 2024 syllabus.
 
 # Notes (2024 syllabus)
 ## Topic 1: Stoichiometric relationships
