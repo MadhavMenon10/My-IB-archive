@@ -1,5 +1,9 @@
 # Economics SL IA
-My economics portfolio focused on indirect taxation of demerit goods, contractionary monetary policy and cost-push inflation, and the removal of import tariffs. At the time of writing this I do not know how much I scored on my IA but I received a very high 7 in economics and was told that my IA was excellent, so it could not have scored that bad. As I did economics SL, none of my commentaries contain HL only concepts.
+My economics portfolio focused on indirect taxation of demerit goods, contractionary monetary policy and cost-push inflation, and the removal of import tariffs. 
+
+I scored a 42/45 on my overall portfolio.
+
+As I did economics SL, none of my commentaries contain HL only concepts.
 
 # Disclaimer on RWEs and important tip for paper one preparartion
 At the time of creating my RWE document (towards the start of exams), I knew that I would not be picking the global economy question in paper one as it was the section of the syllabus I found the hardest. As you only need RWEs for paper one and can choose between the micro, macro, or global economy question I already knew that I only needed to know RWEs for micro and macro. This is why my RWE doc only contains micro and macro.
