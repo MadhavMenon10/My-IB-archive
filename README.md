@@ -4,7 +4,7 @@ Hi, my name is Madhav Menon! I graduated from the IBDP in 2024 with an overall s
 - HL Maths AA (7)
 - HL Physics (7)
 - HL Chemistry (7)
-- SL English A: Language and Literature (6)
+- SL English A: LangLit (6)
 - SL Spanish B (7)
 - SL Economics (7)
 
