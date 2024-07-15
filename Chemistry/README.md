@@ -1,4 +1,4 @@
-# Chemistry HL IA
+# Chemistry IA
 My IA was on the kinetics of the iodination of propan-2-one. 
 
 I scored a 19/24 on my IA.
