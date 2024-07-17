@@ -20,7 +20,6 @@ If you have any questions, you can contact me at: madhavm1007@gmail.com
 
 ## DISCLAIMER: Do **NOT** plagiarise any of my work. 
 
-These documents have been submitted to the IB and are stored in their database. Plagiarizing any part of these documents can jeopardize your chances of earning your diploma. Thus copying experimental data, research questions, or any other content is highly discouraged. Instead, use these materials as inspiration and guidance on how to approach your submissions effectively.
-
+These documents have been submitted to the IB and are stored in their database. Plagiarizing/copying any part of these documents can jeopardize your diploma. 
 
 
